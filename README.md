@@ -43,7 +43,7 @@ We have also chosen to implement <b>Bootstrap</b> because:
 App Preview
 -----------
 
-![demo](pic.png)
+![demo](https://image.ibb.co/hZTx3d/demo_picture.png)
 
 
 Quick Code Tour
