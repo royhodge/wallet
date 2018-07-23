@@ -1,10 +1,11 @@
 <center>
 
-![Current Status](https://img.shields.io/badge/Wallet%20Status-Work%20In%20Progress-brightgreen.svg?longCache=true&style=social "Current Status")
+
 
 ### Wallet
 
-This Project & Repository is a Work In Progress. <br>
+![Current Status](https://img.shields.io/badge/Wallet%20Status-Work%20In%20Progress-brightgreen.svg?longCache=true&style=social "Current Status")
+
 You have been warned.<br>
 <br>
 <br>
