@@ -46,6 +46,7 @@ App Preview
 
 ![demo](https://image.ibb.co/hZTx3d/demo_picture.png)
 
+<hr>
 
 Quick Code Tour
 ---------------
