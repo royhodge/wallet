@@ -76,6 +76,7 @@ So, This is what I have thrown together for us to use as a starting point.<br>
  It's not the Node.js or Electron custom because window is a global. <br>
  For now we must do it this way or it won't work.<br>
 <br>
+
  - **config.json** holds the blockchain parameters used for connecting.
  <br>
  <br>
