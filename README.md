@@ -32,7 +32,9 @@ It takes care of the hard parts so you can focus on the core of your application
 <br>
 We have also chosen to implement Bootstrap 4.0.0-beta3 because:
 <br>
+
 > Bootstrap is the most popular HTML, CSS, and JS framework in the world for building responsive, mobile-first projects on the web
+
 <br>
 It also happens to require jQuery which also comes in handy for web development.
 <br>
