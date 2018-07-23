@@ -24,16 +24,17 @@ If you can build a website, then you can now build a desktop app by using Electr
 It takes care of the hard parts so you can focus on the core of your application.<br>
 <br>
 <br>
-We have also chosen to implement Bootstrap because:
+We have also chosen to implement <b>Bootstrap</b> because:
+<br>
 
 > Bootstrap is the most popular HTML, CSS, and JS framework in the world for building responsive, mobile-first projects on the web
 
 <br>
-* It also happens to require jQuery which also comes in handy for web development.
+* It also happens to require <b>jQuery</b> which also comes in handy for web development.
 <br>
 <br>
 
-> We are going after the [Look & Feel](https://exodus.io) from the wallet that made crypto beautiful.<br>
+> We are going after the [Look & Feel](https://exodus.io) of the wallet that made crypto beautiful.<br>
 
 >> Please take note of any features to be included during UI/UX sprints please.
 
