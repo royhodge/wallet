@@ -5,15 +5,11 @@ A Graphical Wallet For MultiChain Blockchains
 <br>
 Built with :heart: by volunteers under the guidance of UniBit Labs. <br>
 <br>
-<br>
 
 ![Current Status](https://img.shields.io/badge/Wallet%20Status-Work%20In%20Progress-brightgreen.svg?longCache=true&style=social "Current Status")
 
 <br>
 You have been warned.<br>
-<br>
-<br>
-
 <br>
 <br>
 What is Electron? <br>
@@ -22,26 +18,25 @@ What is Electron? <br>
 >  Electron is a framework for creating native applications with web technologies like JavaScript, HTML, and CSS. 
 
 <br>
-<br>
 What does this mean to <b>you</b>?<br>
 <br>
 If you can build a website, then you can now build a desktop app by using Electron.<br>
 It takes care of the hard parts so you can focus on the core of your application.<br>
 <br>
 <br>
-<br>
-We have also chosen to implement Bootstrap 4.0.0-beta3 because:
-<br>
+We have also chosen to implement Bootstrap because:
 
 > Bootstrap is the most popular HTML, CSS, and JS framework in the world for building responsive, mobile-first projects on the web
 
 <br>
-It also happens to require jQuery which also comes in handy for web development.
+* It also happens to require jQuery which also comes in handy for web development.
 <br>
 <br>
-<br>
-We are going after the [Look & Feel](https://exodus.io) from the wallet that made crypto beautiful.<br>
-Please take note of any features to be included during UI/UX sprints please.
+
+> We are going after the [Look & Feel](https://exodus.io) from the wallet that made crypto beautiful.<br>
+
+>> Please take note of any features to be included during UI/UX sprints please.
+
 <br>
 
 App Preview
@@ -81,15 +76,14 @@ So, This is what I have thrown together for us to use as a starting point.<br>
 <br>
  - **config.json** holds the blockchain parameters used for connecting.
  <br>
+ <br>
+ <br>
+ 
+ --------------------------------------------------------------------------------------------------------
+ 
+ <br>
  <strong>
- ^ Application Information Above ^
- </strong>
- <br>
- <br>
- <br>
- <br>
- <strong>
- WALLET DEPENDENCY INFORMATION BELOW:
+ DEPENDENCY INFORMATION BELOW:
  </strong>
  <br>
  <br>
