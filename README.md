@@ -1,6 +1,6 @@
 <center>
 
-![Current Status](https://img.shields.io/badge/Current%20Status-Non--Operational-red.svg "Current Status")
+![Current Status](https://img.shields.io/badge/Wallet%20Status-Work%20In%20Progress-brightgreen.svg?longCache=true&style=social "Current Status")
 
 ### Wallet
 
