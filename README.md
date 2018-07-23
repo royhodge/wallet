@@ -1,8 +1,10 @@
 <center>
 
+A Graphical Wallet For MultiChain Blockchains
+---------------------------------------------
+<br>
+Built with :heart: by volunteers under the guidance of UniBit Labs. <br>
 
-
-### Wallet
 
 ![Current Status](https://img.shields.io/badge/Wallet%20Status-Work%20In%20Progress-brightgreen.svg?longCache=true&style=social "Current Status")
 
@@ -10,10 +12,6 @@ You have been warned.<br>
 <br>
 <br>
 
-A Graphical Wallet For MultiChain Blockchains
----------------------------------------------
-<br>
-Built with <3 by volunteers under the guidance of UniBit Labs. <br>
 <br>
 <br>
 What is Electron? <br>
