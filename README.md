@@ -26,6 +26,7 @@ It takes care of the hard parts so you can focus on the core of your application
 <br>
 We have also chosen to implement <b>Bootstrap</b> because:
 <br>
+<br>
 
 > Bootstrap is the most popular HTML, CSS, and JS framework in the world for building responsive, mobile-first projects on the web
 
