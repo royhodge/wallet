@@ -6,6 +6,8 @@ A Graphical Wallet For MultiChain Blockchains
 Built with :heart: by volunteers under the guidance of UniBit Labs. <br>
 <br>
 
+[![Discord](https://img.shields.io/discord/102860784329052160.svg?style=for-the-badge)](https://discord.gg/TF3PW3)
+
 ![Current Status](https://img.shields.io/badge/Project%20Status-Work%20In%20Progress-red.svg?longCache=true&style=social "Current Status")
 
 ![](https://img.shields.io/badge/Status-Revising%20UI%2FUX-blue.svg?longCache=true)
