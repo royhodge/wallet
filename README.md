@@ -8,7 +8,7 @@ Built with :heart: by volunteers under the guidance of UniBit Labs. <br>
 
 ![Current Status](https://img.shields.io/badge/Project%20Status-Work%20In%20Progress-red.svg?longCache=true&style=social "Current Status")
 
-![](https://img.shields.io/badge/Status-Revising%20UI%2FUX-blue.svg)
+![](https://img.shields.io/badge/Status-Revising%20UI%2FUX-blue.svg?longCache=true&style=social)
 
 <br>
 You have been warned.<br>
