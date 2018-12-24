@@ -8,6 +8,7 @@ Built with :heart: by volunteers under the guidance of UniBit Labs. <br>
 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/royhodge/wallet.svg?style=social)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Froyhodge%2Fwallet.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Froyhodge%2Fwallet?ref=badge_shield)
 
 ![](https://img.shields.io/badge/Status-Revising%20UI%2FUX-blue.svg?longCache=true)
 
@@ -142,3 +143,7 @@ So, This is what I have thrown together for us to use as a starting point.<br>
  - **ALL OTHER APP DEPENDENCIES NEED LISTED!!** and what they are doing or providing for our app's functionality..
  
 </center>
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Froyhodge%2Fwallet.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Froyhodge%2Fwallet?ref=badge_large)
